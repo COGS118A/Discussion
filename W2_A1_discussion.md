@@ -15,7 +15,7 @@ To open and run a notebook
 
 - run `conda activate cogs118a`
 - run `jupyter notebook`. A browser should prompt up
-- after you've finished, close the browser, go to the terminal and hit the key command+ctrl to end the session
+- after you've finished, close the browser, go to the terminal and hit the key ctrl+C to end the session
 
 
 
